@@ -29,6 +29,7 @@ The dataset used in the script is a small, synthetic dataset containing two feat
   [2.0, 3.1, 'B'],
   [3.0, 2.0, 'A']
 ]
+```
 
 Each row contains two numerical features and a categorical label ('A' or 'B'). The decision tree will attempt to split the dataset based on these feature values to classify future data points.
 
